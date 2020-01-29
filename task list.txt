@@ -1,0 +1,5 @@
+task list 
+- user -> admin, company, supplier
+- login, register
+- company recieves item
+- supplier sends item
